@@ -24,7 +24,9 @@
 - Intenta reproducir este texto con el mismo resultado:
 
 >El cielo estaba **nublado** me recordaba que debí hacer caso al _aviso de tormenta_ que dieron esta mañana en la televisión.
->Bueno, ~~lo hecho, hecho está~~, <u>ya era tarde para lamentarse</u>
+>Bueno, ~~lo hecho, hecho está~~, ya era tarde para lamentarse.
+
+**Nota:** _"ya era tarde para lamentarse" debe estar subrayado._
 
 - Crea un enlace que lleve a (www.wikipedia.org) y otro que te lleve a la página principal de este sitio web (www.fulp.es).
 - Crea tres enlaces internos, los dos primeros, a dos páginas que crees (pueden estar vacías) y el tercero que no enlace a ningún sitio.
